@@ -34,6 +34,9 @@ Away from the keyboard I restored and drive a 1990s **Fiat Coupé 2.0 16v** with
 - **[vscode-recent-workspaces-linux](https://github.com/intilinux-eng/vscode-recent-workspaces-linux)**: recent VS Code workspaces in the KDE Plasma taskbar, like the Windows Jump List. It led to the KDE and VS Code changes above. Python, GLib, systemd.
 - **[icloud-sync](https://github.com/intilinux-eng/icloud-sync)**: two-way automatic iCloud Drive sync on Linux, built on rclone bisync. Python.
 
+**Home automation**
+- **[LocalHome](https://github.com/intilinux-eng/LocalHome)**: local-first home automation for a real two-zone apartment with a radiant ceiling and a VMC, on an Arduino UNO Q. Shelly Gen3 over local MQTT, no cloud; a page for the residents, an admin panel for the installer, desktop apps for Windows and Linux, and a Debian package for the board. Python, Flask, JavaScript, Qt.
+
 **Networking**
 - **[netlog](https://github.com/intilinux-eng/netlog)**: your network traffic explained in plain sentences: which program talks to whom, what is new, what is exposed. Python, Scapy.
 
