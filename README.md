@@ -1,4 +1,4 @@
-# Antonio Rosario Intilisano
+# Antonio Rosario Intilisano - Intilinux - Maker Ing 
 
 **Automotive software engineer in Turin, Italy.** I currently work on **[Eclipse S-CORE](https://eclipse.dev/score/)** at **ETAS GmbH**. S-CORE is the open-source core software stack for software-defined vehicles, hosted by the Eclipse Foundation ([eclipse-score](https://github.com/eclipse-score) on GitHub). My S-CORE work happens under my company account; this profile is for my personal projects.
 
