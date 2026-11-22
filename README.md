@@ -1,13 +1,13 @@
 # Antonio Rosario Intilisano - Intilinux - Maker Ing 
 
-**Automotive software engineer in Turin, Italy.** I currently work on **[Eclipse S-CORE](https://eclipse.dev/score/)** at **ETAS GmbH**. S-CORE is the open-source core software stack for software-defined vehicles, hosted by the Eclipse Foundation ([eclipse-score](https://github.com/eclipse-score) on GitHub). My S-CORE work happens under my company account; this profile is for my personal projects.
+**Automotive software engineer in Turin, Italy.** I currently work on **[Eclipse S-CORE](https://eclipse.dev/score/)** at **[ETAS GmbH](https://www.etas.com/en/)**. S-CORE is the open-source core software stack for software-defined vehicles, hosted by the Eclipse Foundation ([eclipse-score](https://github.com/eclipse-score) on GitHub). My S-CORE work happens under my company account; this profile is for my personal projects.
 
 [LinkedIn](https://www.linkedin.com/in/antonio-rosario-intilisano/)
 
 ## About
 
 I've spent more than ten years on vehicle software:
-- **ETAS** (2018 – today): first Product Owner of **RTA-VRTE**, ETAS's AUTOSAR Adaptive framework, and of the VSPS Experience Package; now working on Eclipse S-CORE.
+- **ETAS** (2018 – today): first Product Owner of **RTA-VRTE**, ETAS's AUTOSAR Adaptive framework, and of the [VSPS](https://www.etas.com/en/products-services/vehicle-software-platform/vehicle-software-platform-suite/) Experience Package; now working on Eclipse S-CORE.
 - **Teoresi**, for CNH Industrial / IVECO (2015 – 2018): testing and validation of embedded Linux telematics units: Yocto BSPs on i.MX6, CAN/J1939 and UDS diagnostics, Wi-Fi, Bluetooth and cellular connectivity, OTA updates.
 - **University of Catania** (2012 – 2015): PhD research on speech recognition and spoken dialog systems. Best paper award at CONTENT 2014 for a grammar generator for spoken language understanding. Along the way I built Android apps, including an augmented-reality tourism guide for Epson Moverio smart glasses.
 
